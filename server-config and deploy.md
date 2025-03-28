@@ -61,5 +61,5 @@ Este proyecto forma parte de la práctica de despliegue de aplicaciones web y co
 
 ## ✍️ Autor
 
-Roberto W.D.  
+Roberto Gomez  
 [GitHub](https://github.com/Rober040992)
